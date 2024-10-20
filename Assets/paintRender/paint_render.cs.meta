@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f71ac68de5d24c545b3c81e8b4a8d027
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - texture: {instanceID: 0}
+  - tx2: {instanceID: 0}
+  - cam: {instanceID: 0}
+  - depthtx: {instanceID: 0}
+  - colors: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
